@@ -1,4 +1,4 @@
-#include "tamper.h"
+#include "tamper.h" //<-- Làm ơn đọc file này trước khi đọc phần code bên dưới
 
 void reverse(char a[]){
     int len = strlen(a);
